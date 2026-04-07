@@ -4,8 +4,7 @@ url: >-
 apis:
   - aid: perf-ai:perf-ai
     name: Perf.ai
-    tags:
-      - API
+    tags: []
     humanURL: https://perfai.ai/
     properties:
       - url: https://perfai.ai/
@@ -16,10 +15,10 @@ apis:
       deliver ...
 name: Perf.ai
 tags:
-  - Privacy
-  - Security
   - Governance
   - Platform
+  - Privacy
+  - Security
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
