@@ -32,6 +32,10 @@ apis:
       - url: https://perfai.ai/
         type: Documentation
 common:
+  - type: GitHubOrganization
+    url: https://github.com/PerfAI-Inc
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/perfai
   - type: Website
     url: https://perfai.ai/
 maintainers:
