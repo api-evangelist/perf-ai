@@ -38,6 +38,8 @@ common:
     url: https://www.linkedin.com/company/perfai
   - type: Website
     url: https://perfai.ai/
+  - type: LLMsTxt
+    url: https://perfai.ai/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
