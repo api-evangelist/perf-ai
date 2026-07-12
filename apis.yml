@@ -32,6 +32,10 @@ apis:
       - url: https://perfai.ai/
         type: Documentation
 common:
+  - type: VulnerabilityDisclosure
+    url: security/perf-ai-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/perf-ai-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/PerfAI-Inc
   - type: LinkedIn
