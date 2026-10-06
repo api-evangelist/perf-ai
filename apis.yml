@@ -45,7 +45,7 @@ tags_raw:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/perf-ai/refs/heads/main/apis.yml
 created: '2025-01-08'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: perf-ai:perf-ai
@@ -61,6 +61,8 @@ apis:
       - url: https://perfai.ai/
         type: Documentation
 common:
+  - url: https://perfai.ai/news/
+    type: Blog
   - type: VulnerabilityDisclosure
     url: security/perf-ai-vulnerability-disclosure.yml
   - type: DomainSecurity
